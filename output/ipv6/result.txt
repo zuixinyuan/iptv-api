@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-01 18:39:47,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-10-03 18:36:57,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -13,9 +13,8 @@ CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733$订阅源
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$订阅源
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$订阅源
-CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
-CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731$订阅源
+CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -59,8 +58,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
-东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
-东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
@@ -103,8 +100,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
 山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114$订阅源
-山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
-山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
 山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113$订阅源
 陕西卫视,https://cc06.tv12.xyz/106.m3u8$订阅源
@@ -114,6 +109,7 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 深圳卫视,https://cc06.tv12.xyz/108.m3u8$订阅源
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$订阅源
+西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 西藏卫视,https://cc06.tv12.xyz/112.m3u8$订阅源
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
