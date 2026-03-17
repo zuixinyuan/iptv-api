@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-15 18:25:50,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-03-17 18:45:15,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -10,9 +10,9 @@ CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9%E7%BA%AA%E5%BD%95$订阅源
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99$订阅源
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95$订阅源
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
@@ -26,7 +26,9 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91$订阅源
 
 📡卫视频道,#genre#
+广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86$订阅源
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86$订阅源
+湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86$订阅源
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86$订阅源
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86$订阅源
